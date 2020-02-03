@@ -341,10 +341,10 @@
           "help": {
             "online": "https://portal.mcci.com"
           },
-          "url": "https://github.com/mukeshbharath/TEST/raw/master/ArduinoCore-samd.tar.gz",
+          "url": "https://github.com/mukeshbharath/TEST/raw/master/ArduinoCore-samd-2.1.0.tar.gz",
           "archiveFileName": "ArduinoCore-samd.tar.gz",
-          "checksum": "SHA-256:61fbc081c0241a111670b92c995c58def3538889bb8d7f354dcdbbea7dcb8e7a",
-          "size": "17196203",
+          "checksum": "SHA-256:6c6cfaef5a07b8ddfa87979f8869ade961ae757c9765e04d87eb55dc9d54ca50",
+          "size": "17196746",
           "boards": [
             {"name": "Catena 4410"},
 	    {"name": "Catena 4420"},  
