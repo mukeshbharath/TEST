@@ -334,17 +334,17 @@
           ]
         },
 	{
-          "name": "MCCI Catena SAMD Boards",
+          "name": "MCCI Catena SAMD MKR Board",
           "architecture": "samd",
           "version": "2.1.0",
           "category": "Contributed",
           "help": {
-            "online": "https://portal.mcci.com"
+            "online": "https://github.com/mukeshbharath/TEST/"
           },
-          "url": "https://github.com/mukeshbharath/TEST/raw/master/ArduinoCore-samd-2.1.0.tar.gz",
-          "archiveFileName": "ArduinoCore-samd.tar.gz",
-          "checksum": "SHA-256:6c6cfaef5a07b8ddfa87979f8869ade961ae757c9765e04d87eb55dc9d54ca50",
-          "size": "17196746",
+          "url": "https://github.com/mukeshbharath/TEST/raw/master/ArduinoCore-samd-MKR.tar.gz",
+          "archiveFileName": "ArduinoCore-samd-MKR.tar.gz",
+          "checksum": "SHA-256:3e380545aadeaeeaea4566594d31cd61cd05f9b22913ce81925efe4fd3ab6bb8",
+          "size": "3488595",
           "boards": [
             {"name": "Catena 4410"},
 	    {"name": "Catena 4420"},  
